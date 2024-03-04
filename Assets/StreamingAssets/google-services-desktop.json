@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70191004334",
+    "project_id": "drawline-brainpuzzle",
+    "storage_bucket": "drawline-brainpuzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70191004334:android:66f0dd48067a56c09d8b3f",
+        "android_client_info": {
+          "package_name": "com.gen.drawonepart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70191004334-q3qdcic0ojh77d3afrcn5mnngphod8to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3cFasyOfJ4uD0CYoZTiXU-r3njPZTy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70191004334-q3qdcic0ojh77d3afrcn5mnngphod8to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

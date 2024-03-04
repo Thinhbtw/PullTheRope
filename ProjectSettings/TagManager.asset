@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VatThe
+  - True_Obj
+  - Fail_Obj
+  - Spike
+  - Pole
+  - Guard
+  - Pig
+  - rope
+  - Polygon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CantDraw
+  - Line
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UIGameplay
+    uniqueID: 3231795005
+    locked: 0
+  - name: UIHome
+    uniqueID: 3205973913
+    locked: 0
+  - name: UISetting
+    uniqueID: 4122128961
+    locked: 0
+  - name: UIComplete
+    uniqueID: 41676769
+    locked: 0
+  - name: UILevel
+    uniqueID: 962670789
+    locked: 0
+  - name: UILoading
+    uniqueID: 243636527
+    locked: 0
